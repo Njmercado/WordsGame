@@ -1,0 +1,3 @@
+* Creación del generador para el juego de sopa de letras.
+* Esta generando la matriz a 'fuerza bruta', lo cual debo arreglar.
+* Algunas veces hay palabras que no se introducen en la matriz, por lo que funciona con metodos random --> mejorar
