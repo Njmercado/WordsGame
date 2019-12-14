@@ -1,3 +1,2 @@
-* Creación del generador para el juego de sopa de letras.
-* Esta generando la matriz a 'fuerza bruta', lo cual debo arreglar.
-* Algunas veces hay palabras que no se introducen en la matriz, por lo que funciona con metodos random --> mejorar
+* Borrada la matriz 'bit_map', ya que no era usada para nada.
+* Modificación del archivo README.md para mostrar información relevante.

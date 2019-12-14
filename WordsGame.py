@@ -6,8 +6,7 @@ class WordsGame:
     def __init__(self, words, cols=15):
 
         self.cols = cols
-        self.bit_map= [ [ "." for i in range(self.cols) ] for j in range(self.cols)] 
-        self.grid = self.bit_map
+        self.grid = [ [ "." for i in range(self.cols) ] for j in range(self.cols)] 
         self.words = words 
 
     def get_game(self):
